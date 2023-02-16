@@ -31,4 +31,4 @@ No tests for this application.
 
 ## Questions
 You may reach out to me via email for any questions about this project @ [eight19Realty@gmail.com](mailto:eight19Realty@gmail.com) </br>
-GitHub @ [eight19](https://github.com/eight19) 
+GitHub.com@[eight19](https://github.com/eight19) 
