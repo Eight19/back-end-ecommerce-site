@@ -3,7 +3,7 @@
 ## Description 
 This application was created to build the back end for an e-commerce site. This application used Express.js API and Sequelize to interact with a MySQL database. This application creates a database using mySQL with models and associations. API Routes are derived to perform RESTful CRUD operations using sequelized models and the same is being tested in Insomnia. The dependencies and packages needed for this application are: Node.js, Express.js, MySQL2, Sequelize, and dotenv.
 
-A walk-thru video that demonstrates the functionality of the application can be found via [Click here](https://drive.google.com/file/d/1aDIpl7tWHzKQ0azCVqr8WziJHOI3ft1V/view)
+A walk-thru video that demonstrates the functionality of the application can be found via [Click here]
 
 ## Table of Contents
 * [Installation](#installation)
