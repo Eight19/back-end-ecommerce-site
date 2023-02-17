@@ -1,3 +1,4 @@
+const router = require('express').Router();
 //Models to seed//
 const Category = require('seeds./Category');
 const Product = require('seeds./Product');
@@ -5,6 +6,12 @@ const ProductTag = require('seeds./ProductTag');
 const Tag = require('seeds./Tag');
 
 const sequelize = require('config/connection');
+const { Model } = require('sequelize/types');
+const { Category, Product, ProductTag, Tag } = require('../models');
+const categoryData = require('./categoryData.json');
+const productData = require('./productData.json');
+const productTagData = require('./productTagData.json');
+const tagData = require('./tagData.json');
 
 const seedAll = async () => {
   await sequelize.sync({ force: true });
