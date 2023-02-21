@@ -1,7 +1,7 @@
 {
   "name": "back-end-e-commerce",
   "version": "1.0.0",
-  "description": "",
+  "description": "This application was created to build the back end for an e-commerce site. This application used Express.js API and Sequelize to interact with a MySQL database. This application creates a database using mySQL with models and associations. API Routes are derived to perform RESTful CRUD operations using sequelized models and the same is being tested in Insomnia. The dependencies and packages needed for this application are: Node.js, Express.js, MySQL2, Sequelize, and dotenv.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
