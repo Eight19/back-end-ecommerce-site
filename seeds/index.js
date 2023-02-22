@@ -1,4 +1,4 @@
-const seedCategories = require('./categorySeeds');
+const seedCategories = require('./Category-seeds');
 const seedProducts = require('./product-seeds');
 const seedProductTags = require('./product-tag-seeds');
 const seedTags = require('./tag-seeds');
